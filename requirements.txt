@@ -1,0 +1,7 @@
+pip==23.2.1
+setuptools==68.0.0
+wheel==0.40.0
+requests==2.21.0
+cloudscraper==1.2.71
+ua-parser==0.18.0
+user-agents==2.2.0
